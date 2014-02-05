@@ -7,5 +7,5 @@ The camera takes two images (marked out by the black box). It then compares the 
 
 Then by assuming the RGB colours (of the left and right image) are a point in 3D space you can then get the disatance between 
 them and if it is over a certian amount a green overlay is added to that pixel.  
-  
+***
 This project was created at the [Summit Awesome](http://summitawesome.co.uk/) hackathon, 1st - 2nd February 2014.
